@@ -33,7 +33,9 @@ password.d를 만든 뒤, utf-8 인코딩으로 비밀번호를 입력해 저장
 
 
 ## Version Info
+
 Python 3.12.2
+
 Selenium 4.23.1
 
 
