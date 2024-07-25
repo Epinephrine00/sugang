@@ -1,0 +1,31 @@
+# 수광신춍 맥그로
+for 고톤데학고 수간신천
+
+----------------------------------
+
+고톤데학고 수간신천 맥구로입니다
+
+## 깃 클론
+```
+git clone https://github.com/Epinephrine00/sugang.git
+```
+
+## 파일 구조
+```
+sugang
+ ├ pycache
+ │  └ Something...
+ ├ .gitignore
+ ├ lib34.py
+ ├ main.py
+ └ password.d
+```
+
+## 중요!!!
+
+``password.d``라는 파일은 따로 만들으셔야합니다.
+password.d를 만든 뒤, utf-8 인코딩으로 비밀번호를 입력하면 됩니다.
+
+
+## main.py
+라는 파일은 현재 기본적인 기능 구현단계입니다
