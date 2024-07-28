@@ -11,7 +11,7 @@ while True:
     except:
         pass
     driver.get('https://sugang.ut.ac.kr/')
-    send('//*[@id="HAKBEON"]', '2226054')
+    send('//*[@id="HAKBEON"]', '이곳에 학번을 입력하세요')
     send('//*[@id="PWD"]', password)
 
     click('//*[@id="loginBtn"]')
